@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Super Caneta BIC Presta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "O Homem que Calculava",
+      "price": 25.40
+    },
+    {
+      "id": 3,
+      "name": "Mi Band 4",
+      "price": 104.50
+    }
+  ]
+}
